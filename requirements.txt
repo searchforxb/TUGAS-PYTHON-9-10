@@ -1,0 +1,12 @@
+# Requirements for Student Performance Tracker
+# Core Python packages (no external dependencies needed for base project)
+# Namun, kamu bisa menambahkan pustaka tambahan opsional di bawah ini untuk tampilan atau dokumentasi.
+
+# Untuk laporan & konversi PDF (opsional)
+reportlab
+
+# Untuk dokumentasi otomatis (opsional)
+pdoc
+
+# Untuk tampilan CLI lebih menarik (opsional)
+rich
