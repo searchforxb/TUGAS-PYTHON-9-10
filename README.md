@@ -1,5 +1,3 @@
-Student Performance Tracker
-
 Aplikasi Python berbasis OOP dan modularisasi untuk mengelola data mahasiswa, presensi, dan
 nilai.
 Struktur Folder
