@@ -47,11 +47,3 @@ Konsep OOP yang Digunakan
 • Modularization: logika dipisah ke dalam package tracker.
 • File I/O: membaca CSV & menulis laporan Markdown/HTML.
 • CLI: menu interaktif di terminal.
-
-
-
-
-Author
-Nama: Fatkurrahman Rafie Wibowo
-NIM: 230103193
-Mata Kuliah: Pemrograman Python
